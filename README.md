@@ -107,7 +107,7 @@ anime-data-analysis/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/anime-data-analysis.git
+git clone https://github.com/jagat2024/anime-data-analysis.git
 ```
 
 ### 2️⃣ Open the project
